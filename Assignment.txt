@@ -1,0 +1,55 @@
+
+01-09-2020
+-------------------------------------------------------------------
+
+1: Prime Number
+2: Swap the Two numbers without using third variable
+3: Factorial of a number
+4: Sum of a digit
+5: largest of three numbers
+
+---------------------------------------------------------------
+03-09-2020
+-------------------------------------------------------------
+1: Fibonacci series
+2: Palindrome in Interger
+3: Reverse  the integer number
+4: Armstrong Number 
+5: Find the perimeter of a circle , Reactangle ,Trinangle..
+
+---------------------------------------------------------------
+05-09-2020
+----------------------------------------------------------
+1. Conversion : 
+	Binary to Decimal
+	Decimal to binary 
+
+ Pattern -1 :
+				*
+				**
+				***
+				****
+ Pattern - 2
+				*
+				**
+				***
+				****
+				***
+				**
+				*		
+Patter	- 3    Floyd's triangle
+				1
+				2  3
+				4  5   6
+				7  8   9 10
+				11 12 13 14 15
+
+Pattern - 4    	Pascals's triangle 
+
+						1
+					1		1
+				1	     2      1
+			1    3
+
+
+--------------------------------------------------------------
