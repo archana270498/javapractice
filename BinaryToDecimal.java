@@ -5,13 +5,13 @@ class BinaryToDecimal {
 		System.out.println("Enter the number");
 		int binary = sc.nextInt();
 		int decimal = binaryToDecimal(binary);
-		System.out.println("Binary :" + binary + " -> Decimal :" + decimal);
+		System.out.println("Binary :" + binary + " -> Decimal No:" + decimal);
 	}
 
-	public static int binaryToDecimal(int binary){ //1110
+	public static int binaryToDecimal(int binary) { //1110
 		int decimal = 0;//0+2+4+8 =14
 		int power = 0;//0,1,2,3
-		while(binary > 0){
+		while(binary > 0) {
 			System.out.println("Power  :" +power);
 			decimal += (binary%10) * Math.pow(2,power++); 
 
